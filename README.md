@@ -6,7 +6,7 @@ This is a standalone mind controlled chess game.
 It requires NextMind brain-computer interface device.  
 First visit https://www.next-mind.com/documentation/quick-start/ and follow the quick start guide.  
 Then, open NM Chess.exe and calibrate your device once more by focusing on the red x mark and voila it is ready to go.  
-After the calibration step, red x mark cancels the move and cycle symbol allows the user to switch between pawns and other pieces.
+After the calibration step, red x mark cancels the move and cycle symbol allows the user to switch between pawns and other pieces.  
 
-Credits
+Credits  
 The project was inspired by ryantoon24's chess game. His project can be found at https://github.com/ryantoon24/NM-Chess.
